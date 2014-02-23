@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$  ../machine.php?/$1 [L]
